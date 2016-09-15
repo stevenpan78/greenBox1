@@ -1,0 +1,25 @@
+#header{
+	width:985px;
+	height:70px;
+	background:#00a651;
+}
+#container1{
+	width:985px ;
+	height:500px;
+	background:#7cc576;
+}
+.smallbox{
+	width: 320px;
+	height:470px;
+	margin:5px;
+	background:#00a651;
+	float:left;
+}
+#footer{
+	width:985px;
+	height:150px;
+	background:#00a651;
+}
+#dummy{
+	clear:both;
+}
